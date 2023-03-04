@@ -1,4 +1,4 @@
-import * as express from "express";
+import * as express from "../../DataModulization/node_modules/@types/express";
 
 const app: express.Express = express();
 
